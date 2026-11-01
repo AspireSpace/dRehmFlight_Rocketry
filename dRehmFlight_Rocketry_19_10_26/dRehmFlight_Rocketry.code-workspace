@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "dRehm flight controller",
+			"path": "."
+		}
+	],
+	"settings": {
+		"arduino.analyzeOnSettingChange": false,
+		"arduino.analyzeOnOpen": false
+	}
+}
